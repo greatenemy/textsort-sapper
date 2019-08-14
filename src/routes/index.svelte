@@ -3,16 +3,18 @@
 </style>
 
 <svelte:head>
-  <title>Sql Prettifier</title>
+  <title>Text Sort</title>
 </svelte:head>
 
-<h2 class="text-center">Sql Prettifier</h2>
+<h2 class="text-center">Text Sort</h2>
 <br />
 
-{#if process.browser}
-  <SqlPrettifier />
-{/if}
+<div class="container">
+  {#if process.browser}
+    <TextSort />
+  {/if}
+</div>
 
 <script>
-  import SqlPrettifier from '~/components/SqlPrettifier.svelte';
+  import TextSort from '~/components/TextSort.svelte';
 </script>
