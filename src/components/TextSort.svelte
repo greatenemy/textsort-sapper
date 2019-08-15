@@ -77,7 +77,7 @@
   import orderBy from 'lodash/orderBy'
   import map from 'lodash/map'
   import uniq from 'lodash/uniq'
-  import AceEditor from '~/components/AceEditor.svelte';
+  import AceEditor from 'svelte-ace-editor';
 
   if (process.browser) {
     require('brace');
