@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2anh5syg9jpf2fyf/branch/master?svg=true)](https://ci.appveyor.com/project/InstanceOfMichael/textsort-sapper/branch/master)
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, with branches for Rollup and webpack. To clone it and get started:
