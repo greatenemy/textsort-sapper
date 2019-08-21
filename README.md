@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/2anh5syg9jpf2fyf/branch/master?svg=true)](https://ci.appveyor.com/project/InstanceOfMichael/textsort-sapper/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/2anh5syg9jpf2fyf/branch/master?svg=true)](https://ci.appveyor.com/project/InstanceOfMichael/textsort-sapper/branch/master) [![Greenkeeper badge](https://badges.greenkeeper.io/greatenemy/textsort-sapper.svg)](https://greenkeeper.io/)
 
 # sapper-template
 
